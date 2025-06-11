@@ -25,7 +25,7 @@
 
 ```bash
 # プロジェクトのクローン
-git clone https://github.com/fukayatti0/schemdraw-mcp-server.git
+git clone https://github.com/fukayatti/schemdraw-mcp-server.git
 cd schemdraw-mcp-server
 
 # 依存関係のインストール
@@ -39,7 +39,7 @@ uv sync --all-extras
 
 ```bash
 # プロジェクトのクローン
-git clone https://github.com/fukayatti0/schemdraw-mcp-server.git
+git clone https://github.com/fukayatti/schemdraw-mcp-server.git
 cd schemdraw-mcp-server
 
 # インストール
@@ -254,4 +254,4 @@ Claude への指示例:
 
 ## 📞 サポート
 
-問題や質問がある場合は、[Issues](https://github.com/fukayatti0/schemdraw-mcp-server/issues) でお知らせください。
+問題や質問がある場合は、[Issues](https://github.com/fukayatti/schemdraw-mcp-server/issues) でお知らせください。

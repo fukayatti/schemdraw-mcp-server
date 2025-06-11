@@ -7,7 +7,7 @@ name = "schemdraw-mcp-server"
 version = "0.1.0"
 description = "MCP Server for schemdraw - Electronic circuit diagram drawing"
 authors = [
-    {name = "fukayatti0", email = "fukayatti0@example.com"}
+    {name = "fukayatti0", email = "contact@fukayatti0.dev"}
 ]
 readme = "README.md"
 license = {text = "MIT"}
@@ -45,9 +45,9 @@ dev = [
 schemdraw-mcp-server = "schemdraw_mcp_server.server:main"
 
 [project.urls]
-Homepage = "https://github.com/fukayatti0/schemdraw-mcp-server"
-Repository = "https://github.com/fukayatti0/schemdraw-mcp-server"
-Issues = "https://github.com/fukayatti0/schemdraw-mcp-server/issues"
+Homepage = "https://github.com/fukayatti/schemdraw-mcp-server"
+Repository = "https://github.com/fukayatti/schemdraw-mcp-server"
+Issues = "https://github.com/fukayatti/schemdraw-mcp-server/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/schemdraw_mcp_server"]
